@@ -5,5 +5,8 @@ Da Max, Melvin und Ich beim Rollout in den letzten Monaten helfen mussten, konnt
 
 ## Phase 1: Setup & Initialisierung
 
-Als erstes musste ich **[Microsoft Visual Studio](https://dotnet.microsoft.com/en-us/learn/maui/first-app-tutorial/modify)** installieren. Als Volgeaufgabe eine "Hello World "<mark>Maui</mark>" app" kreieren. Da habe ich auch gemäss der Maui-Anleitung herausgefunden welche Datei für Visuelle zuständig ist. Da alles unnötige vom grid Weggeworfen bis nur noch ein <mark>label</mark> übrig war da dann "Hello World" hinzugefügt.
-![Bild vom gekürzten Code](pics/FB10Phase1Code.PNG)
+Als erstes musste ich **[Microsoft Visual Studio](https://dotnet.microsoft.com/en-us/learn/maui/first-app-tutorial/modify)** installieren. Als Volgeaufgabe eine "Hello World "<mark>Maui</mark>" app" kreieren. Da habe ich auch gemäss der Maui-Anleitung herausgefunden welche Datei für Visuelle zuständig ist. 
+
+> Ich hatte probleme mit dem initiallisieren des virtuellen Android Handys. da half mir Porter mit dem problem, er sagte ich brauche Hyper-V an.
+>
+> Da alles unnötige vom grid Weggeworfen bis nur noch ein <mark>label</mark> übrig war da dann "Hello World" hinzugefügt. ![Bild vom gekürzten Code](pics/FB10Phase1Code.PNG)
