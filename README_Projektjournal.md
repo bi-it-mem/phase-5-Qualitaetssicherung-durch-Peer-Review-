@@ -9,8 +9,8 @@ Als erstes musste ich **[Microsoft Visual Studio](https://dotnet.microsoft.com/e
 
 > Ich hatte probleme mit dem initiallisieren des virtuellen Android Handys. da half mir Porter mit dem problem, er sagte ich brauche Hyper-V an.
 
-Am Code alles unnötige vom grid Weggeworfen bis nur noch ein <mark>label</mark> übrig war da dann "Hello World" hinzugefügt. ![Bild vom gekürzten Code](pics/FB10Phase1Code.PNG) ![Bild vom gekürzten Code](pics/FB10Phase1Output.PNG)
-
-&nbsp; | &nbsp;
---- | ---
-Inhalt A | Inhalt B
+Am Code alles unnötige vom grid Weggeworfen bis nur noch ein <mark>label</mark> übrig war da dann "Hello World" hinzugefügt. 
+<p align="center">
+  <img src="pics/FB10Phase1Code.PNG" width="45%" style="margin-right: 5px;">
+  <img src="pics/FB10Phase1Output.PNG" width="45%">
+</p>
