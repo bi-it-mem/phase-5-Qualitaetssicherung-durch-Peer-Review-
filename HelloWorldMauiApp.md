@@ -5,4 +5,4 @@ Da Max, Melvin und Ich beim Rollout in den letzten Monaten helfen mussten, konnt
 
 ## Phase 1: Setup & Initialisierung
 
-Als erstes musste ich [Microsoft Visual Studio](https://dotnet.microsoft.com/en-us/learn/maui/first-app-tutorial/modify) installieren. eine "Hello World "Maui" app" kreieren
+Als erstes musste ich **[Microsoft Visual Studio](https://dotnet.microsoft.com/en-us/learn/maui/first-app-tutorial/modify)** installieren. eine "Hello World "Maui" app" kreieren
