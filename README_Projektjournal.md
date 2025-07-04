@@ -11,6 +11,6 @@ Als erstes musste ich **[Microsoft Visual Studio](https://dotnet.microsoft.com/e
 
 Am Code alles unnötige vom grid Weggeworfen bis nur noch ein <mark>label</mark> übrig war da dann "Hello World" hinzugefügt. 
 <p align="center">
-  <img src="pics/FB10Phase1Code.PNG" height="150" style="margin-right: 5px;">
-  <img src="pics/FB10Phase1Output.PNG" height="150">
+  <img src="pics/FB10Phase1Code.PNG" height="100" style="margin-right: 5px;">
+  <img src="pics/FB10Phase1Output.PNG" height="100">
 </p>
