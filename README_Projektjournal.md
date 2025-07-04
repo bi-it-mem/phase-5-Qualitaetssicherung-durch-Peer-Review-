@@ -15,4 +15,4 @@ Am Code alles unnötige vom grid Weggeworfen bis nur noch ein <mark>label</mark>
   <img src="pics/FB10Phase1Output.PNG" style="height: 620px; vertical-align: top;">
 </p>
 
-Habe viel mit -md gearbeitet bzw. getestet wie, wann, bis wo GFM geht
+Habe viel mit .md gearbeitet bzw. getestet wie, wann, bis wo GFM geht
